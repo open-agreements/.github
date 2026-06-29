@@ -2,9 +2,7 @@
 
 This organization is operated by **OM Innovation AI Inc.** (d/b/a UseJunior), a Delaware C corporation.
 
-- Website: https://usejunior.com
-- Legal entity reference (internal): `foam-notes/company/legal-entity.md`
-
+- Website: https://openagreements.org
 ---
 
 ## Cryptographic identity
